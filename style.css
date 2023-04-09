@@ -42,6 +42,7 @@ section.main {
     color: #1f3251;
     background-color: white;
     border-radius: 20px;
+    box-shadow: 10px 10px 20px hsla(220, 15%, 55%, 0.2)
 }
 
 img {
